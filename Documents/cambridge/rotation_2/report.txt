@@ -1,0 +1,229 @@
+Title: Investigating the genetic basis of nodulation via chemical mutagenesis
+screening and natural diversity panel mining in Pisum sativum
+
+Motivation: Nodulation mechanisms and pathways are well established in Medicago
+truncatula, the most deeply studied plant in the nitrogen fixing clade from a
+modern reverse genetics perspective, but not only are shoot phenotypes difficult
+to categorise, Medicago is far from being put to use in an agricultural setting.
+To this end, it is of significant interest to elucidate nodulation pathways in
+Pisum sativum (garden pea). LSH1/2 - factors typically implicated as shoot
+phenotype regulators - have recently been identified in the context of nodulation
+(cite: lee2024light). One working evolutionary theory is that more general
+regulatory programmes have been recently co-opted by root nodulation systems, and
+the well segregating traits in Pisum sativum will hopefully help push the envelope
+in this regard.
+
+The Work: Three resources were made available through collaborators - a natural
+pea diversity germplasm dataset along with ~30x short read paired end genome
+sequencing data via the John Innes Centre (JIC) (cite: feng2025genomic), an ethyl
+methanesulfonate (EMS) chemical mutagenesis panel in the "JI2822" pea background
+also via the JIC (unpublished), and finally a fast neutron (FN) mutagenesis panel,
+also in the JI2822 pea background (unpublished). EMS alkylates guanine residues,
+causing G/C-to-A/T transition SNPs genome-wide, while fast neutron irradiation
+induces double-strand breaks that are repaired imprecisely, resulting
+predominantly in deletions and other structural indels.  Our challenge was to
+figure out a way to unify these resources in our goal of establishing Pisum
+sativum as a tractable genetic model for dissecting the molecular basis of
+nodulation.
+
+Screening: Given that Pisum sativum has n genes and a genome size of x, given that
+the EMS mutations have an expected rate of y, we would expect roughly 10
+G/C-to-A/T mutations in a given gene across the entire panel of mutants.During the
+screening of the EMS mutagenesis panel, we recorded qualitative shoot (internode
+length, height, leaf size, stipule size, petiole length, peduncle length) and root
+characteristics (nodule abundance, nodule morphology, root density, root
+complexity, nodule size) of <NUMBER> plants. In addition, we also recorded how
+interesting a given accession was in terms of its overall characteristics (i.e.,
+whether or not to request seeds for further investigation under controlled
+conditions). The exact combinations of characteristics that determined how
+interesting an accession was were flexible, but in general we were looking out for
+unusual nodule morphologies or hypernodulation, particularly when combined with
+unusual root morphology (extremely low complexity roots, for example) and unusual
+shoot morphology (e.g. unusually short, large features, serrations on the leaves).
+Plants without nodules might have been considered interesting under controlled
+conditions, but as the plants had been grown in a greenhouse with no <single known
+strain of rhizobia, there's a term for this but I forgot it...> and were in
+various stages of decay during the screening, it was not possible to distinguish
+those that had no nodules due to a genetic factor or due to the nodules having
+disintegrated, enough nitrogen been available in the compost that nodules did not
+need to be produced, or those that were not colonised by the correct bacteria.
+TODO: summary statistics
+
+Controlled Conditions: Seeds from n accessions flagged during a primary
+greenhouse screen conducted by other members of the lab were germinated and
+cultivated under controlled conditions across three separate growth batches.
+Prior to germination, seeds were surface-sterilised as follows: immersion in 70%
+EtOH for 1 minute, one rinse with distilled water for 1 minute, immersion in 2%
+NaOCl for 5 minutes, three 1-minute washes with distilled water, and two final
+washes with distilled water with a minimum 20-minute imbibition period.
+Following this they were planted in clear 1 litre plastic pots without drainage
+holes containing 1:1 vermiculite/terragreen substrate watered with x ml of
+nitrogen free rooting solution (TODO: write out the recipe or at least cite it),
+inoculated with 1ml of rhizobia culture (rhizobia binomial name and
+modifications, they had GUS constructs) and were wrapped in cling film and left
+to grow in <growth chamber conditions> for a total of 28 days. The cling film
+was cut open as soon as the seedlings germinated and distilled water was added
+as necessary if the substrate became too dry. After 28 days, the plants were
+removed from the pots and the roots washed, before the plants were phenotyped
+(weight, shoot and root characteristics as before, and height) and a
+representative sample of the root system taken for histochemical staining and
+finally were repotted in 1:1 vermiculite/F2 compost to set seed.
+
+In general, the vast majority of the flagged seeds collected in the EMS
+screening were wild type in appearance, with a few exceptions. This was somewhat
+surprising, as the phenotypes recorded during the screening were in many cases
+quite dramatic (large, multilobed clusters and/or hypernodulating root systems),
+but certainly the fact that the full EMS population was not grown under
+conditions conducive to accurate nodule phenotyping (monoculture of rhizobia,
+different substrate, etc) will have contributed to this difference in phenotype.
+One fairly easy to test hypothesis was considered - that the increase in root
+density as the plants grew to fill their small pots may have both reduced
+nutrient availability and compressed the surrounding earth to trigger nodulation
+and induce non-wild-type phenotypes. To test this, we grew the pea cultiva Avola
+in both non-compressed and compressed 1:1 F2/vermiculite mix, our standard
+nodulation assay 1:1 terragreen/vermiculite mix and finally sharp sand, to
+understand whether substrate had an effect on nodule morphology. The seeds were
+sterilised and inoculated as described for the other planting experiments.
+
+
+
+Hairy Root Transformation: To assess the feasibility of hairy root
+transformation as a tool for functional characterisation of LSH1 and LSH2
+in P. sativum, transformation of P. sativum cv. Avola was attempted
+following the protocol of Leppyanen et al. (2019) (cite:
+leppyanen2019agrobacterium). The JI2822 background used for the EMS and FN
+panels was reported by collaborators at the JIC to be recalcitrant to
+transformation, including by hairy root approaches; cv. Avola was therefore
+selected as a more tractable starting point. Three A. rhizogenes strains
+(AR1193, ARqua1,
+and K599) were evaluated with a reporter-only construct carrying DsRed
+under the Lotus japonicus ubiquitin promoter (pLjUBI::DsRed), with n = 10
+plants per strain. Concurrently, ~18 plants each were transformed with
+constructs additionally carrying LSH1 or LSH2 (pLjUBI::DsRed-LSH1 and
+pLjUBI::DsRed-LSH2), intended to generate overexpressor composite plants.
+Briefly, etiolated seedlings were germinated in barley nodulation medium
+(BNM; cite: wickens2026spatiotemporal) in a ventilated tip box (Figure Xa), sectioned in the
+hypocotyl region, and wounded root tips were inoculated by contact with A.
+rhizogenes growing on plate. Seedlings were then supported through
+windmill-folded filter paper in glass jars containing modified Fahraeus
+(modFP) agar, without antibiotic selection, and incubated for 10-14 days
+at 21°C under a 16h/8h light/dark cycle (Figure Xb-d). A total of six DsRed-expressing hairy roots were recovered: four from K599,
+one from AR1193, and one from ARqua1 (Figure Xd; dsred_avola_hairy_roots.jpeg). All successful transformants
+carried the reporter-only construct (pLjUBI::DsRed), suggesting that hairy root
+transformation is feasible in cv. Avola, though transformation efficiency
+appeared to remain low and require further optimisation.
+In contrast, the LSH overexpressor which used the AR1193 strain in fact achieved
+transformation efficiency of 16/18 and 14/18 for the LSH1 and LSH2 overexpressor
+constructs, respectively.
+While the transformed roots were still mostly in early stages of growth (see
+hairy_root_lsh1oe_v2.png, hairy_root_lsh2oe_v2.png), the LSH2
+overexpressor line showed a distinct "curled" root phenotype (curly_lsh2oe.jpg)
+consistent with observations of lsh1 lsh2 double knockouts <note, should be more
+accurate with knockout syntax here> in medicago (lee2024light).
+7 lines with the LSH2 overexpressor construct and 5 lines with the LSH1
+overexpressor construct were taken forward for attempted stable line cultivation
+by surgically removing transformed calli to T -BASTA agar to promote
+hormone-mediated re-differentiation, meanwhile 7 lines with the LSH2
+overexpressor and 11 lines with the LSH1 overexpressor were kept to grow in
+500ml pots in 1:1 terragreen/vermiculite mix supplemented with ~100ml ModFP
+medium along with the 6 successfully transformed dsred control plants
+
+Figure Legends:
+
+hairy_root_lsh2oe_v2.png — Figure [LSH2oe]. Brightfield and fluorescence
+imaging of pLjUBI::DsRed-LSH2 transformed hairy roots in P. sativum cv.
+Avola (line 43224). (A–C) Brightfield stereomicroscopy images of three
+independent transformed hairy roots recovered following A. rhizogenes
+(AR1193) inoculation. (D–F) Corresponding DsRed fluorescence images
+confirming stable transgene expression throughout the root tissue. A
+pronounced curled root morphology is visible in panels C and F, consistent
+with the phenotype observed in lsh1 lsh2 overexpressor lines in M.
+truncatula (lee2024light).
+
+hairy_root_lsh1oe_v2.png — Figure [LSH1oe]. Brightfield and fluorescence
+imaging of pLjUBI::DsRed-LSH1 transformed hairy roots in P. sativum cv.
+Avola (line 43225). (A–C) Brightfield stereomicroscopy images of three
+representative transformed hairy roots recovered following A. rhizogenes
+(AR1193) inoculation. (D–F) Corresponding DsRed fluorescence images
+confirming stable transgene expression.
+
+there is a lot of diversity out there - induced and natural. We are both looking
+for diversity in our genes of interest but additionally novel regulators that we
+    might not have considered yet.
+
+
+TODO: look for fast neutron indels in gene body and 5kb upstream of start site
+mendelseq: look at LSH1/2, NOOT1/2, NIN, NFYa1 and recommend accessions to
+investigate this
+
+Methods:
+
+Identification of Pisum sativum nodulation gene orthologs:
+
+A curated genelist of nodulation-relevant genes was compiled from the
+Medicago truncatula A17 (v5r1.7) annotation, comprising genes with
+established or candidate roles in nodulation signalling, organogenesis, and
+regulation, including LSH1, LSH2, NOOT1, NOOT2, NF-YA1, and related family
+members. For each A17 gene, a corresponding R108 ortholog had been manually
+curated from the M. truncatula R108 HiC assembly
+(medtr.R108.gnmHiC_1.ann1; cited as R108 throughout) annotation, stored
+as the R108_orthologs_final field in the genelist.
+
+To identify Pisum sativum JI2822 orthologs, OrthoFinder (cite: emms2019orthofinder) was run on predicted protein
+sequences from all three species: M. truncatula A17, M. truncatula R108,
+and P. sativum JI2822.
+
+Pisum orthologs were identified using a two-step bridging strategy via R108:
+for each gene in the genelist, the pre-curated R108 ortholog ID was used to
+look up its OrthoFinder orthogroup, and all Pisum sativum JI2822 proteins
+within that orthogroup were extracted as candidate orthologs. This was
+supplemented with pairwise R108-to-Pisum ortholog assignments from the
+OrthoFinder pairwise Orthologues output. R108 was used as an intermediary
+rather than mapping directly from A17, as the genelist R108 identifiers were
+directly compatible with the OrthoFinder output, and the HiC-improved R108
+assembly is expected to have higher-quality gene models that resolve more
+reliably to Pisum orthologs. Orthogroups containing exactly one gene from
+each species (1:1:1 single-copy orthogroups) were flagged as highest-
+confidence assignments. The resulting Pisum locus IDs (PSAT_LOCUS identifiers) were mapped to
+genomic coordinates in the JI2822 v1.3 assembly. The full pipeline is
+implemented in the script find_orthologs.py.
+
+Fast neutron indel intersection:
+
+FN deletion and duplication calls (n = 1,603 deletions and 451 duplications
+across 197 FN lines) were obtained from skim-sequencing coverage analysis of
+the JI2822 FN panel (Supplementary Tables 5-6, collaborator-provided).
+Deletions were called at two stringency thresholds per line: a hemizygous
+call (coverage ~50% of genome average, marking the outer interval of coverage
+loss) and a homozygous call (coverage ~0%, the inner high-confidence core).
+These were intersected with the 488 ortholog gene models in JI2822 coordinates
+using a minimum 1 bp overlap criterion. All analysis was performed using the script fn_ortholog_analysis.py.
+
+Comparing GUS staining methods to optimise for Pisum Sativum nodules.  Three
+approaches were trialled - 8h incubation/9m infiltration, 12h/15m infiltration,
+18h/15m infiltration
+
+The 8h incubation gave the most accurate view of fully colonised mature nodules
+(mature_nodules_batch1.jpg), but many early stage nodules and infection threads
+were not visibly stained or were barely stained (early_nodules_batch1.jpg), and so
+further investigation under the microscope was made difficult. The 18h/15m
+infiltration gave incredibly detailed views of infection threads and early
+rhizobium colonisation events in general (infection_thread_detail_batch2.jpg) but
+overstained fully mature nodules (mature_nodules_batch2.jpg), while the 12h/15m
+incubation/infiltration approach gave a good combination of both features
+(infection_thread_detail_batch3.jpg, mature_nodules_batch3.jpg) with the exception
+of some slight overstaining in the mature nodules.
+
+To insert somewhere:
+
+- Many genes which coordinate nodulation are ubiquitous plant genes, involved in
+  general root growth/arbuscular mycorrhiza symbiosis but are
+  likely co-opted by nitrogen fixing plants either through modification,
+  duplication or nodule-specific regulation (yu2024conserved)
+
+TODO/NOTES:
+
+- Should note somewhere that it's quite easy to observe infection threads and
+  early stage nodules in pea compared with medicago due to their size,
+  especially with more pronounced GUS staining
+- Do we see the NIN motifs found in the NAD1 paper? (yu2024conserved)

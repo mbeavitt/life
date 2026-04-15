@@ -1,0 +1,1269 @@
+{
+  "version": 1,
+  "source_dir": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg",
+  "cursor": 10,
+  "files": [
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0001.JPG",
+      "original_name": "DSC_0001.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0002.JPG",
+      "original_name": "DSC_0002.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0003.JPG",
+      "original_name": "DSC_0003.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0004.JPG",
+      "original_name": "DSC_0004.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0005.JPG",
+      "original_name": "DSC_0005.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0006.JPG",
+      "original_name": "DSC_0006.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0007.JPG",
+      "original_name": "DSC_0007.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0008.JPG",
+      "original_name": "DSC_0008.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0009.JPG",
+      "original_name": "DSC_0009.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0010.JPG",
+      "original_name": "DSC_0010.JPG",
+      "new_name": "",
+      "status": "skipped"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0011.JPG",
+      "original_name": "DSC_0011.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0012.JPG",
+      "original_name": "DSC_0012.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0013.JPG",
+      "original_name": "DSC_0013.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0014.JPG",
+      "original_name": "DSC_0014.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0015.JPG",
+      "original_name": "DSC_0015.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0016.JPG",
+      "original_name": "DSC_0016.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0017.JPG",
+      "original_name": "DSC_0017.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0018.JPG",
+      "original_name": "DSC_0018.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0019.JPG",
+      "original_name": "DSC_0019.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0020.JPG",
+      "original_name": "DSC_0020.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0021.JPG",
+      "original_name": "DSC_0021.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0022.JPG",
+      "original_name": "DSC_0022.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0023.JPG",
+      "original_name": "DSC_0023.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0024.JPG",
+      "original_name": "DSC_0024.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0025.JPG",
+      "original_name": "DSC_0025.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0026.JPG",
+      "original_name": "DSC_0026.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0027.JPG",
+      "original_name": "DSC_0027.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0028.JPG",
+      "original_name": "DSC_0028.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0029.JPG",
+      "original_name": "DSC_0029.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0030.JPG",
+      "original_name": "DSC_0030.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0031.JPG",
+      "original_name": "DSC_0031.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0032.JPG",
+      "original_name": "DSC_0032.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0033.JPG",
+      "original_name": "DSC_0033.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0034.JPG",
+      "original_name": "DSC_0034.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0035.JPG",
+      "original_name": "DSC_0035.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0036.JPG",
+      "original_name": "DSC_0036.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0037.JPG",
+      "original_name": "DSC_0037.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0038.JPG",
+      "original_name": "DSC_0038.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0039.JPG",
+      "original_name": "DSC_0039.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0040.JPG",
+      "original_name": "DSC_0040.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0041.JPG",
+      "original_name": "DSC_0041.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0042.JPG",
+      "original_name": "DSC_0042.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0043.JPG",
+      "original_name": "DSC_0043.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0044.JPG",
+      "original_name": "DSC_0044.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0045.JPG",
+      "original_name": "DSC_0045.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0046.JPG",
+      "original_name": "DSC_0046.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0047.JPG",
+      "original_name": "DSC_0047.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0048.JPG",
+      "original_name": "DSC_0048.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0049.JPG",
+      "original_name": "DSC_0049.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0050.JPG",
+      "original_name": "DSC_0050.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0051.JPG",
+      "original_name": "DSC_0051.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0052.JPG",
+      "original_name": "DSC_0052.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0053.JPG",
+      "original_name": "DSC_0053.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0054.JPG",
+      "original_name": "DSC_0054.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0055.JPG",
+      "original_name": "DSC_0055.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0056.JPG",
+      "original_name": "DSC_0056.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0057.JPG",
+      "original_name": "DSC_0057.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0058.JPG",
+      "original_name": "DSC_0058.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0059.JPG",
+      "original_name": "DSC_0059.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0060.JPG",
+      "original_name": "DSC_0060.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0061.JPG",
+      "original_name": "DSC_0061.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0062.JPG",
+      "original_name": "DSC_0062.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0063.JPG",
+      "original_name": "DSC_0063.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0064.JPG",
+      "original_name": "DSC_0064.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0065.JPG",
+      "original_name": "DSC_0065.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0066.JPG",
+      "original_name": "DSC_0066.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0067.JPG",
+      "original_name": "DSC_0067.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0068.JPG",
+      "original_name": "DSC_0068.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0069.JPG",
+      "original_name": "DSC_0069.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0070.JPG",
+      "original_name": "DSC_0070.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0071.JPG",
+      "original_name": "DSC_0071.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0072.JPG",
+      "original_name": "DSC_0072.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0073.JPG",
+      "original_name": "DSC_0073.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0074.JPG",
+      "original_name": "DSC_0074.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0075.JPG",
+      "original_name": "DSC_0075.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0076.JPG",
+      "original_name": "DSC_0076.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0077.JPG",
+      "original_name": "DSC_0077.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0078.JPG",
+      "original_name": "DSC_0078.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0079.JPG",
+      "original_name": "DSC_0079.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0080.JPG",
+      "original_name": "DSC_0080.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0081.JPG",
+      "original_name": "DSC_0081.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0082.JPG",
+      "original_name": "DSC_0082.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0083.JPG",
+      "original_name": "DSC_0083.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0084.JPG",
+      "original_name": "DSC_0084.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0085.JPG",
+      "original_name": "DSC_0085.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0086.JPG",
+      "original_name": "DSC_0086.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0087.JPG",
+      "original_name": "DSC_0087.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0088.JPG",
+      "original_name": "DSC_0088.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0089.JPG",
+      "original_name": "DSC_0089.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0090.JPG",
+      "original_name": "DSC_0090.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0091.JPG",
+      "original_name": "DSC_0091.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0092.JPG",
+      "original_name": "DSC_0092.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0093.JPG",
+      "original_name": "DSC_0093.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0094.JPG",
+      "original_name": "DSC_0094.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0095.JPG",
+      "original_name": "DSC_0095.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0096.JPG",
+      "original_name": "DSC_0096.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0097.JPG",
+      "original_name": "DSC_0097.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0098.JPG",
+      "original_name": "DSC_0098.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0099.JPG",
+      "original_name": "DSC_0099.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0100.JPG",
+      "original_name": "DSC_0100.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0101.JPG",
+      "original_name": "DSC_0101.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0102.JPG",
+      "original_name": "DSC_0102.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0103.JPG",
+      "original_name": "DSC_0103.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0104.JPG",
+      "original_name": "DSC_0104.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0105.JPG",
+      "original_name": "DSC_0105.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0106.JPG",
+      "original_name": "DSC_0106.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0107.JPG",
+      "original_name": "DSC_0107.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0108.JPG",
+      "original_name": "DSC_0108.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0109.JPG",
+      "original_name": "DSC_0109.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0110.JPG",
+      "original_name": "DSC_0110.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0111.JPG",
+      "original_name": "DSC_0111.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0112.JPG",
+      "original_name": "DSC_0112.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0113.JPG",
+      "original_name": "DSC_0113.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0114.JPG",
+      "original_name": "DSC_0114.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0115.JPG",
+      "original_name": "DSC_0115.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0116.JPG",
+      "original_name": "DSC_0116.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0117.JPG",
+      "original_name": "DSC_0117.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0118.JPG",
+      "original_name": "DSC_0118.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0119.JPG",
+      "original_name": "DSC_0119.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0120.JPG",
+      "original_name": "DSC_0120.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0121.JPG",
+      "original_name": "DSC_0121.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0122.JPG",
+      "original_name": "DSC_0122.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0123.JPG",
+      "original_name": "DSC_0123.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0124.JPG",
+      "original_name": "DSC_0124.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0125.JPG",
+      "original_name": "DSC_0125.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0126.JPG",
+      "original_name": "DSC_0126.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0127.JPG",
+      "original_name": "DSC_0127.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0128.JPG",
+      "original_name": "DSC_0128.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0129.JPG",
+      "original_name": "DSC_0129.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0130.JPG",
+      "original_name": "DSC_0130.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0131.JPG",
+      "original_name": "DSC_0131.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0132.JPG",
+      "original_name": "DSC_0132.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0133.JPG",
+      "original_name": "DSC_0133.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0134.JPG",
+      "original_name": "DSC_0134.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0135.JPG",
+      "original_name": "DSC_0135.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0136.JPG",
+      "original_name": "DSC_0136.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0137.JPG",
+      "original_name": "DSC_0137.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0138.JPG",
+      "original_name": "DSC_0138.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0139.JPG",
+      "original_name": "DSC_0139.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0140.JPG",
+      "original_name": "DSC_0140.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0141.JPG",
+      "original_name": "DSC_0141.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0142.JPG",
+      "original_name": "DSC_0142.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0143.JPG",
+      "original_name": "DSC_0143.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0144.JPG",
+      "original_name": "DSC_0144.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0145.JPG",
+      "original_name": "DSC_0145.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0146.JPG",
+      "original_name": "DSC_0146.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0147.JPG",
+      "original_name": "DSC_0147.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0148.JPG",
+      "original_name": "DSC_0148.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0149.JPG",
+      "original_name": "DSC_0149.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0150.JPG",
+      "original_name": "DSC_0150.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0151.JPG",
+      "original_name": "DSC_0151.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0152.JPG",
+      "original_name": "DSC_0152.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0153.JPG",
+      "original_name": "DSC_0153.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0154.JPG",
+      "original_name": "DSC_0154.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0155.JPG",
+      "original_name": "DSC_0155.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0156.JPG",
+      "original_name": "DSC_0156.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0157.JPG",
+      "original_name": "DSC_0157.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0158.JPG",
+      "original_name": "DSC_0158.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0159.JPG",
+      "original_name": "DSC_0159.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0160.JPG",
+      "original_name": "DSC_0160.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0161.JPG",
+      "original_name": "DSC_0161.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0162.JPG",
+      "original_name": "DSC_0162.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0163.JPG",
+      "original_name": "DSC_0163.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0164.JPG",
+      "original_name": "DSC_0164.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0165.JPG",
+      "original_name": "DSC_0165.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0166.JPG",
+      "original_name": "DSC_0166.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0167.JPG",
+      "original_name": "DSC_0167.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0168.JPG",
+      "original_name": "DSC_0168.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0169.JPG",
+      "original_name": "DSC_0169.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0170.JPG",
+      "original_name": "DSC_0170.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0171.JPG",
+      "original_name": "DSC_0171.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0172.JPG",
+      "original_name": "DSC_0172.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0173.JPG",
+      "original_name": "DSC_0173.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0174.JPG",
+      "original_name": "DSC_0174.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0175.JPG",
+      "original_name": "DSC_0175.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0176.JPG",
+      "original_name": "DSC_0176.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0177.JPG",
+      "original_name": "DSC_0177.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0178.JPG",
+      "original_name": "DSC_0178.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0179.JPG",
+      "original_name": "DSC_0179.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0180.JPG",
+      "original_name": "DSC_0180.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0181.JPG",
+      "original_name": "DSC_0181.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0182.JPG",
+      "original_name": "DSC_0182.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0183.JPG",
+      "original_name": "DSC_0183.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0184.JPG",
+      "original_name": "DSC_0184.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0185.JPG",
+      "original_name": "DSC_0185.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0186.JPG",
+      "original_name": "DSC_0186.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0187.JPG",
+      "original_name": "DSC_0187.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0188.JPG",
+      "original_name": "DSC_0188.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0189.JPG",
+      "original_name": "DSC_0189.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0190.JPG",
+      "original_name": "DSC_0190.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0191.JPG",
+      "original_name": "DSC_0191.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0192.JPG",
+      "original_name": "DSC_0192.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0193.JPG",
+      "original_name": "DSC_0193.JPG",
+      "new_name": "",
+      "status": "pending"
+    },
+    {
+      "original_path": "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0194.JPG",
+      "original_name": "DSC_0194.JPG",
+      "new_name": "",
+      "status": "pending"
+    }
+  ],
+  "ocr": {
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0001.JPG": "{\"id\": null, \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0002.JPG": "{\"id\": null, \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0003.JPG": "{\"id\": null, \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0004.JPG": "{}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0005.JPG": "{\"id\": null, \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0006.JPG": "{\"id\": null, \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0007.JPG": "{}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0008.JPG": "{\"id\": null, \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0009.JPG": "{\"id\": null, \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0010.JPG": "{\"id\": null, \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0011.JPG": "{\"id\": null, \"view\": null}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0012.JPG": "{\"id\": null, \"view\": null}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0013.JPG": "{\"id\": null, \"view\": null}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0014.JPG": "{\"id\": null, \"view\": null}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0015.JPG": "{\"id\": null, \"view\": \"CLOSE\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0016.JPG": "{\"id\": \"1044-2\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0017.JPG": "{\"id\": \"104-2-1\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0018.JPG": "{\"id\": \"1044-2\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0019.JPG": "{\"id\": \"1044-2\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0020.JPG": "{\"id\": \"1044-2\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0021.JPG": "{\"id\": \"1044-2\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0022.JPG": "{\"id\": null, \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0023.JPG": "{\"id\": \"1044-2\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0024.JPG": "{\"id\": \"1044-2\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0025.JPG": "{\"id\": \"1077-1\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0026.JPG": "{\"id\": \"1077-1\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0027.JPG": "{\"id\": \"1077-1\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0028.JPG": "{\"id\": \"1077-1\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0029.JPG": "{\"id\": \"115-1\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0030.JPG": "{\"id\": \"5211-1\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0031.JPG": "{\"id\": \"1125-1\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0032.JPG": "{\"id\": \"1125-1\", \"view\": \"FAR\"}",
+    "/Users/michaelbeavitt/life/Data/rotation_2_kslab/camera_images/renamed_jpg/DSC_0033.JPG": "{\"id\": \"1125-1\", \"view\": \"FAR\"}"
+  },
+  "log": [
+    {
+      "ts": "2026-03-27T12:44:41.571935",
+      "action": "skip",
+      "index": 0,
+      "old_name": "DSC_0001.JPG"
+    },
+    {
+      "ts": "2026-03-27T12:44:42.531880",
+      "action": "skip",
+      "index": 1,
+      "old_name": "DSC_0002.JPG"
+    },
+    {
+      "ts": "2026-03-27T12:44:43.238557",
+      "action": "skip",
+      "index": 2,
+      "old_name": "DSC_0003.JPG"
+    },
+    {
+      "ts": "2026-03-27T12:44:43.943651",
+      "action": "skip",
+      "index": 3,
+      "old_name": "DSC_0004.JPG"
+    },
+    {
+      "ts": "2026-03-27T12:44:44.656079",
+      "action": "skip",
+      "index": 4,
+      "old_name": "DSC_0005.JPG"
+    },
+    {
+      "ts": "2026-03-27T12:44:45.425978",
+      "action": "skip",
+      "index": 5,
+      "old_name": "DSC_0006.JPG"
+    },
+    {
+      "ts": "2026-03-27T12:44:46.146226",
+      "action": "skip",
+      "index": 6,
+      "old_name": "DSC_0007.JPG"
+    },
+    {
+      "ts": "2026-03-27T12:44:46.749527",
+      "action": "skip",
+      "index": 7,
+      "old_name": "DSC_0008.JPG"
+    },
+    {
+      "ts": "2026-03-27T12:44:47.385834",
+      "action": "skip",
+      "index": 8,
+      "old_name": "DSC_0009.JPG"
+    },
+    {
+      "ts": "2026-03-27T12:44:48.166880",
+      "action": "skip",
+      "index": 9,
+      "old_name": "DSC_0010.JPG"
+    }
+  ],
+  "saved": "2026-03-27T12:46:53.915504"
+}

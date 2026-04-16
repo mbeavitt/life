@@ -1,0 +1,8 @@
+ID: 1
+Title: Nucleosomes interact with transcription factors
+
+Nucleosomes restrict access to DNA, necessarily repressing its transcription. As
+a result, nucleosomes loaded into gene-rich DNA must be removed somehow.
+Nucleosomes interact with transcription factors to facilitate their own removal.
+
+References: @luger1997crystal
